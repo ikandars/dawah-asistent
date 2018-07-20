@@ -1,6 +1,6 @@
 # Dawah Asistent
 
-A Service for queuing holy Quran by it surah number and verse number.
+A Service for queuing holy Quran by it surah number and verse number from your WhatsApp or Telegram.
 
 ## Run in local development
 
